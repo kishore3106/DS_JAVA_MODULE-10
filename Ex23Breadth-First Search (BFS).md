@@ -77,7 +77,6 @@ public class BFSJunctionMap {
 }
 ```
 ## OUTPUT
-<img width="936" height="387" alt="image" src="https://github.com/user-attachments/assets/20891545-c24e-42db-b9d4-d7a260325e6a" />
-
+<img width="464" height="325" alt="image" src="https://github.com/user-attachments/assets/ba67be71-eb74-438b-8171-68be3a1a498e" />
 ## RESULT
 The Java program successfully performs BFS traversal on a city’s junction map and lists all reachable junctions from the given source node.
