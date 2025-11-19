@@ -89,7 +89,8 @@ public class HeritageTownBFS {
 }
 ```
 ## OUTPUT
-<img width="934" height="512" alt="image" src="https://github.com/user-attachments/assets/13a4298b-153f-4fef-91b5-fe98830de223" />
+<img width="1018" height="348" alt="image" src="https://github.com/user-attachments/assets/35cd0887-e929-44a0-ba30-178db803b751" />
+
 
 ## RESULT
 The program correctly computes the shortest number of paths (minimum hops) between two attractions and the total number of reachable attractions from a given starting point using BFS traversal.
