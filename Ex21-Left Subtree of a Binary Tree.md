@@ -68,7 +68,6 @@ public class LeftSubtreeCount {
 }
 ```
 ## OUTPUT
-<img width="943" height="145" alt="image" src="https://github.com/user-attachments/assets/23941bb6-c485-4c81-8d38-c4a6bb003fa1" />
-
+<img width="458" height="307" alt="image" src="https://github.com/user-attachments/assets/18dffde7-2a1c-4c9a-a6f2-05074bb58667" />
 ## RESULT
 The program has been successfully implemented and executed.
