@@ -81,8 +81,7 @@ public class BookSearchBST {
 }
 ```
 ## OUTPUT
-<img width="929" height="176" alt="image" src="https://github.com/user-attachments/assets/7cd8a6b3-e53f-4032-84fa-5f649262fb7c" />
-
+<img width="507" height="387" alt="image" src="https://github.com/user-attachments/assets/3959e1d5-1697-4cd0-8afd-d13836b92af2" />
 ## RESULT
 The program has been successfully implemented and executed.
 
