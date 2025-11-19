@@ -102,7 +102,8 @@ public class FastestChargingRoute {
 }
 ```
 ## OUTPUT
-<img width="940" height="478" alt="image" src="https://github.com/user-attachments/assets/74510562-ae75-426e-b93a-e8922918ada1" />
+<img width="433" height="429" alt="image" src="https://github.com/user-attachments/assets/a6a651b4-0d47-45e1-8b34-011beaf16bc1" />
+
 
 ## RESULT
 The program successfully computes the shortest travel time from the EV’s current block to the nearest charging station using Dijkstra’s algorithm and handles unreachable cases correctly.
